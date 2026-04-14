@@ -51,7 +51,7 @@ Building things with C++, focused on client–server systems, databases, and mul
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamuraiSanch&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
     </td>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SamuraiSanch&layout=compact&theme=dark&hide_border=true&card_width=500&langs_count=8"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SamuraiSanch&layout=compact&theme=dark&hide_border=true"/>
     </td>
   </tr>
 </table>
