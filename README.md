@@ -1,4 +1,4 @@
-# Hey, I'm Alex 👋
+# Hey, I'm Oleksandr 👋
 
 C++ Developer from Ukraine 🇺🇦  
 Master's student in Computer Engineering @ Lviv Polytechnic National University  
@@ -54,8 +54,8 @@ Building things with C++, focused on client–server systems, databases, and mul
 
 ## ⚔️ Codewars
 
-<a href="https://www.codewars.com/users/SamuraiSanch">
-  <img src="https://www.codewars.com/users/SamuraiSanch/badges/large" alt="Codewars Badge"/>
+<a href="https://www.codewars.com/users/SamuraiSan">
+  <img src="https://www.codewars.com/users/SamuraiSan/badges/large" alt="Codewars Badge"/>
 </a>
 
 ---
