@@ -69,3 +69,4 @@ Building things with C++, focused on client–server systems, databases, and mul
 ## 📬 Contact
 
 [![Gmail](https://img.shields.io/badge/sashakopiyforever@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sashakopiyforever@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/itwllneverend)
