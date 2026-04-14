@@ -46,8 +46,8 @@ Building things with C++, focused on client–server systems, databases, and mul
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuraiSanch&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuraiSanch&layout=compact&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamuraiSanch&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SamuraiSanch&layout=compact&theme=dark&hide_border=true" height="160"/>
 </p>
 
 ---
